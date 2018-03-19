@@ -9,4 +9,9 @@ div.active {
     color: #829c00;
 }
 
-color:
+.box {
+    font-size: 14px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 100px;
+}
