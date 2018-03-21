@@ -15,3 +15,20 @@ div.active {
     padding: 10px;
     margin: 100px;
 }
+
+.ir {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    background: url(http://heem.net/fastcampus/2/image2.png) no-repeat 0 0;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.gift {
+    background-position: 0 -100px;
+}
+
+.coffee {
+    background-position: 0 -200px;
+}
